@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning SAAS and React
 - 🤔 I’m looking for help with peering coding
 - 💬 Ask me about anything
-- ⚡ Quote: "The way in is the only way out"
+- ⚡ Quote: "The only way in is the only way out"
