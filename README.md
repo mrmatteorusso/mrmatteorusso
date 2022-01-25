@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on my [Team generator](https://github.com/mrmatteorusso/Team-Generator) project and translating a [React tutorial into Italian](https://fullstackopen.com/en/)
 - ⚙️ Technologies I use: HTML, CSS, Javascript, Bootstrap 
-- 🌱 Learning SAAS and React
+- 🌱 Learning SAAS
 - 🤔 Looking for help with peering coding
 - 💬 Ask me about anything
 - ⚡ Quote: "In is the only way out"
