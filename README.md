@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on my [Online Shopping Website](https://github.com/mrmatteorusso/angular-onlineshopping) project with Angular
 - ⚙️ Technologies I use: HTML, CSS, Javascript, Bootstrap 
-- 🌱 Learning Angular
+- 🌱 Learning React
 - 🤔 Looking for help with peering coding
 - 💬 Ask me about anything
 - ⚡ Quote: "In is the only way out"
